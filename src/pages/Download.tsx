@@ -8,7 +8,8 @@ export function Download() {
     'https://enviousgarbage.com/HE9TFh',
     'https://mo.gatsbykynurin.com/iDo8P9Ad0aP/94691',
     'https://aviatorreproducesauciness.com/2082665',
-    'https://viidedss.com/dc/?blockID=388556'
+    'https://viidedss.com/dc/?blockID=388556',
+    'https://enviousgarbage.com/b.3yVF0TPh3/pXvhbtm/VKJ-ZUDb0d2DNzj/cC2-NpTAEwy/L/TKYS2ZN/zPYv1KM/TWMT'
   ];
 
   const handleDownload = () => {
