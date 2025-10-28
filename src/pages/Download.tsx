@@ -5,11 +5,11 @@ export function Download() {
   const videoTitle = sessionStorage.getItem('videoTitle'); // Get video title from session storage
 
   const randomUrls = [
+    'https://otieu.com/4/10055984',
     'https://enviousgarbage.com/HE9TFh',
-    'https://mo.gatsbykynurin.com/iDo8P9Ad0aP/94691',
     'https://aviatorreproducesauciness.com/2082665',
-    'https://viidedss.com/dc/?blockID=388556',
-    'https://enviousgarbage.com/b.3yVF0TPh3/pXvhbtm/VKJ-ZUDb0d2DNzj/cC2-NpTAEwy/L/TKYS2ZN/zPYv1KM/TWMT'
+    'https://adclickad.com/get/?spot_id=6089412&cat=25&subid=2067093145',
+    'https://viikqoye.com/dc/?blockID=388556'
   ];
 
   const handleDownload = () => {
